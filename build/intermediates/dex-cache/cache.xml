@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\0a01619a04b6f60f8890cbff425abd8f09a8d6a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_d97c4bb1d780a7485e0f5404eb87f7ee1c035d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\7a618af0be1c051660cc0bab158f17fdd27ccb26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_6033e5688da8d18e4c64689ad5bae6140c9dffaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\7dda5e39768ac8693722008678f2c7c2ae7e3feb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_0d2b6a7073e0a3c752aa8e2bbdd8f8f3dfce1944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9e44265d646ad7b43c49eba513f1ac96e59c627c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_139570cd7a3f9f170d7aec4228eb2482e56080d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\929d3f32c155e243cb9e5239886d842ca2f002e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_fc601a8fa8d39059912c5a87c998843c950b63e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\c3493614be095437730416fc5507797a632bd7c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_7a9e81e0f5b5b98b06a1cb20c1b7b97aa244aafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\26aedb7c9809be4797c5c0a7ff45f558db2cedbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_8f24ae9ee59a6a2bb50145449319250285d8c6e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\e21f047e7ed93e3b81ad496bad83622e4dfe6f18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_570b77d863c0454d1efd7ee06ca142a4ec17e955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c8733362402cb87d79a117f1c99d8a6328a50b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\gson-2.7_2f4713852bf04b86e9069c58ad277d99b8f2422b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\09a8ae154a1dceed0790b6d38a1db14d79157612\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_65ec908f32923434ec41da3ad7164949551f5144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_beccc1d1c65dd724cdc9c8f28b9bf3487c26b0c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\8e2277067b08d98af54e5682529ba4437285bf2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_ac2d5df106f4d3b7fbf2e2f6cc50d157ea318489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\ffba4f9c4d023ffe0637e8aed43a8640a4be69a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_ced2dce8768bfcd4806f82e13f76a19a042f7530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\e38e6aae254728ac72070ebd144aef4032a5703b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_31281df5495257aca33fdc493646183977eb1a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0807f0b9ba3d56746be48b58bd0fa403e8cddd8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.0_b7f517f42610fa1ebe2dfe1add348ffe3ee5d4ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_c4fe59ac07429c7984c789a8d23693f6378939ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\a589bd7e28bdd1cd43e036eb0a7ecef8c1c28ac6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_8af500a3398ff20d5cbd010f8b5afe08f1c644ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\ba3de95da83e41a930694f5d46ff8c0166a7b006\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_cc01122455ed0f980221acdd62758521dcf4f5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\326aa322b16e7a35cdd3c324e2edf32b1b379dc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\own project\Retrofit_json_parse\JsonArray\app\build\intermediates\pre-dexed\debug\classes_5fff29d8712e890d38b4380e5b6e02f3ab5cc899.jar" />
+    </item>
+
+</items>

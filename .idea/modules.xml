@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JsonArray.iml" filepath="$PROJECT_DIR$/JsonArray.iml" />
+      <module fileurl="file://F:\own project\Retrofit_json_parse\JsonArray\MyApplication2.iml" filepath="F:\own project\Retrofit_json_parse\JsonArray\MyApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\own project\Retrofit_json_parse\JsonArray\app\app.iml" filepath="F:\own project\Retrofit_json_parse\JsonArray\app\app.iml" />
+    </modules>
+  </component>
+</project>
